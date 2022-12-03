@@ -3,8 +3,7 @@ Welcome to BRIEF! This repository is aimed at helping researchers or developers 
 
 ## Biological data
 
-<video src="docs/assets_readme/Supplementary Video 1.mp4" controls="controls" style="max-width: 730px;">
-</video>
+https://user-images.githubusercontent.com/37761162/205438872-e21733df-caae-4674-983c-b53bf82ac993.mp4
 
 ## Medical data
 
